@@ -1,0 +1,6 @@
+{
+  "name": "CraftGrid Studio",
+  "description": "Suite de 100 icônes pixel art Minecraft avec palettes de couleurs canoniques, compilateur de prompts d'ingénierie et génération IA en direct.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
